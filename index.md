@@ -37,6 +37,7 @@ To avoid this, the best thing to do is to avoid wandering around the worlds (esp
 In other words, as soon as you can, use them, whether it's to level up, improve or repair your equipment, buy items... This is especially true after every boss fight: going back to the Nexus to level up should be the first thing you do. To rush headlong into the exploration of a new area still in possession of your just earned souls is to do everything possible to lose them.
 
 **PLAYING OFFLINE**
+
 This is especially true if you want to make the 100% and/or the platinum of the game. This is because when you play online, it results in so much change in the Worlds Trend. Each time you log in, the Trend of each world will be based on the average of the Trend of all players online instead of the Trend level of your last login.
 
 When playing online, you lose control over the Trend of the worlds. This is especially problematic when there are very limited opportunities to have a pure white Trend for each world. As a reminder, the Tendency of a world becomes white every time you defeat a non-optional boss of that world. It will therefore become impossible to get a pure white Tendency for the world in question from the moment you blacken the Tendency, either by dying in human form or by playing online. This will prevent you from accessing certain equipment, weapons, quests, and Pure White Tendency player benefits.
@@ -44,6 +45,7 @@ When playing online, you lose control over the Trend of the worlds. This is espe
 However, if you find that playing offline deprives you of a part of the game and you still want to discover the benefits of the multiplayer part of the game like PvP, cooperation... You can always consider your first game as a discovery game and not be afraid to miss too much. Since 100% requires at least two extra NG+ anyway because of some miracles and spells, it's not too bad to miss some events during your first game. However, it will be essential to play offline for the following games to have a total mastery of the Tendencies.
 
 **PLAYING IN SOUL FORM**
+
 The soul form corresponds to the form that has a spectral aspect. This form is not only aesthetic since it has direct consequences on the course of the game. The main consequence is to decrease your life bar by 50%. The only way to become human again is to use an ephemeral eye stone or to beat a non-optional boss.
 
 Because of the life bar penalty, new players will tend to play with a human form believing that it will make the game easier. However, this is probably the best way to make the game more difficult. Indeed, every time you die in human form in a world, it will darken the Trend of the world in question. In fact, the more you die in human form in a world, the more complicated it will become until you reach the pure black Tendency. And to be blunt, the levels in Pure Black Tendency become much harder, especially if you are still at the beginning of your game.
@@ -51,5 +53,6 @@ Because of the life bar penalty, new players will tend to play with a human form
 On the other hand, dying in soul form has no effect on the Tendency of the worlds so by playing permanently in soul form you can only whiten the Tendencies and make the game easier for yourself. Don't forget that every time you defeat a boss, you become human again so in order to avoid darkening the Tendency of a world, it is advisable to commit suicide in the Nexus in order to regain the soul form. Although the Nexus has a Tendency, it does not matter.
 
 **DON'T USE BOSS SOULS RANDOMLY**
+
 After each boss victory, you will get a very special soul that is unique to each boss. Like all souls, they can be used to gain more or less souls to level up or get "money". However, using boss souls for this purpose would be a real waste.
 
